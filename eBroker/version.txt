@@ -1,0 +1,27 @@
+##Used in this code
+
+App Code version V1.1.4 (Note: Admin panel and app version should be match.)
+
+##Flutter Doctor
+
+
+[✓] Flutter (Channel stable, 3.19.6, on macOS 14.4.1 23E224 darwin-arm64, locale en-IN)
+[✓] Android toolchain - develop for Android devices (Android SDK version 34.0.0-rc1)
+[✓] Xcode - develop for iOS and macOS (Xcode 15.3)
+[✓] Chrome - develop for the web
+[✓] Android Studio (version 2023.2)
+[✓] VS Code (version 1.89.0)
+[✓] Connected device (4 available)
+    ! Error: Browsing on the local area network for ShreeSoftech’s iPhone. Ensure the device is unlocked and attached with a cable or associated with the same local area network as
+      this Mac.
+      The device must be opted into Developer Mode to connect wirelessly. (code -27)
+[✓] Network resources
+
+
+
+Kotline: 1.9.22
+Gradle Wrapper: distributionUrl=https\://services.gradle.org/distributions/gradle-7.6-all.zip
+Java :  Java JDK 19
+
+
+
